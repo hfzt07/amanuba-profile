@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Profile from './pages/profile'
-import FrontOffice from './pages/FrontOffice'
+import FrontOffice from './pages/frontoffice'
 import './styles/Profile.css'
 
 function App() {
